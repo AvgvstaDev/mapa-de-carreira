@@ -1,0 +1,107 @@
+	/* CSS personalizado para o modo escuro */
+	body {
+		background-color: #1a1a1a;
+		color: #fff;
+    	}
+
+	.bg-white {
+		background-color: #2a2a2a !important;
+	}
+
+	.resume-position-title {
+    font-size: 1.125rem;
+    color: #c9c9c9;
+}
+
+	.resume-wrapper-inner {
+		border-color: #343a40 !important;
+	}
+
+	.resume-picture-holder {
+		border-color: #343a40 !important;
+	}
+
+	.resume-section-title {
+		color: #17a2b8 !important;
+	}
+
+	.resume-section-content {
+		border-color: #343a40 !important;
+		color: #fbfcff;
+	}
+
+	.text-link {
+		color: #17a2b8 !important;
+	}
+
+	.text-link:hover {
+		color: #138496 !important;
+	}
+
+	.badge {
+		color: #fff !important;
+	}
+
+	.badge-secondary {
+		background-color: #343a40 !important;
+	}
+
+	.theme-progress-bar-dark {
+		background-color: #17a2b8 !important;
+	}
+
+	.resume-skills-cat {
+    font-size: 1rem;
+	color: #c9c9c9;
+}
+
+	.resume-skill-item {
+    border-color: #343a40 !important;
+    color: #f2f2f2; /* Define a cor do texto como mais clara */
+    background-color: #2a2a2a; /* Define a cor de fundo como mais escura */
+}
+
+.resume-skill-item .badge {
+    background-color: #343a40 !important;
+    color: #f2f2f2; /* Define a cor do texto da insígnia como mais clara */
+}
+
+.resume-lang-list .font-weight-normal {
+    color: #f2f2f2; /* Define a cor do texto como mais clara */
+    font-size: 0.9rem; /* Ajusta o tamanho do texto */
+}
+
+.resume-skill-name {
+    font-size: 0.8125rem;
+    color: #f2f2f2;
+}
+	.resume-lang-list {
+		border-color: #343a40 !important;
+	}
+
+	.resume-lang-name {
+		color: #17a2b8 !important;
+	}
+
+	.resume-skill-item {
+    border-color: #343a40 !important;
+    color: #fff; /* Define a cor do texto como branco */
+    background-color: #2a2a2a; /* Define a cor de fundo como mais escura */
+}
+
+.resume-header {
+    background-color: #434E5E;
+}
+
+.fa-container {
+    color: #434E5E !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.text-muted {
+    color: white !important;
+}
+
